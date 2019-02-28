@@ -1,0 +1,6 @@
+{
+  "auth": {
+    "iterations": 20,
+    "hashInterval": 50
+  }
+}
